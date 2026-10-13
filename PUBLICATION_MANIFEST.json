@@ -1,0 +1,33 @@
+{
+  "version": "1.0.0",
+  "date": "2026-10-13",
+  "upstream_compiler": "cangjie-tools v2.5.0",
+  "changed_compiled_files": [
+    "SKILL.md"
+  ],
+  "note": "BUILD_MANIFEST.json preserves original compiler hashes; this publication manifest records the translated entrypoint and added publication documentation.",
+  "sha256": {
+    ".gitignore": "849d5b0b0bc4684fe9a5c18df99cda0bf77a8711dda9c751bcf046dc75d8e3a7",
+    "BUILD_MANIFEST.json": "3ae8174f891ce586686f5589979580ce3b3bbed99dc75303740f5afec68317c9",
+    "ITERATIONS.md": "4c75fd7d3b8a261e744193901a676aca988af8600d73da86d7c5ed1e4e19e756",
+    "README.md": "31cfc91ff15706f09129f94bce2f31d00f9b96395c0c5011e3d12a46d7aaeedc",
+    "README.zh-CN.md": "43dcbc87c036bd17993124bb7eec2d1d0f3a5e04fc762c3f0a3f65905848e76b",
+    "SKILL.md": "54be920e78e542d39ab21d7e06a898514bc8662c7f7f1f87b28ac2ba574456da",
+    "references/capabilities/focus-management.md": "09a083af479ca60912a84768e4c0467d2cf5548b05c9612e7bd2bcfee0b3eead",
+    "references/capabilities/growth-stages.md": "5e7185187c4c5ab3433f1f310e56f1b5327e409d100a1a400041c71f44baa364",
+    "references/capabilities/memory-encoding.md": "4ea0567f0082a50883f5d1562ebe1e2e750af417c50e7672445b98f020e1f56c",
+    "references/capabilities/mental-representation.md": "b0ab702e78a475cada61c8038b17020b8db0547aa617508187586aea809283da",
+    "references/capabilities/mentor-selection.md": "108fce2e7a9bd1285430f99f19136339f007a920ec4ef5b20e6e1d97b06861c7",
+    "references/capabilities/motivation-support.md": "0bea08f73a4859a0b9a0e8426069045e52059160acce22b1434cd9552573c39a",
+    "references/capabilities/plateau-breakthrough.md": "0d4a255371b87d60a20a3bd813648b39b475f295d44a66ecae200f6e326af4b2",
+    "references/capabilities/practice-audit.md": "554e6b34e8d552201e822c3c1692dafa36120b8f6efeb980f22beb35f4adb520",
+    "references/capabilities/practice-design.md": "4f94df50ff918e054a94d88a9f5587d01da199e1e0051da6a8acf3b0ad0d6619",
+    "references/capabilities/self-directed-practice.md": "816b60537b28d8aaf0b3912dd06eface6ca3f9816ed93a49c0c3cb0036912b1c",
+    "references/capabilities/work-training.md": "0aa00242d1f80895e1769ad573bbbf77335835692012dc931ad87995b5077bd2",
+    "references/capability-index.md": "f5ff141f41a4cfe3951cf3eafa329e2b7fa3962dd87040fdb503e1f48a0d6ae1",
+    "references/cheatsheet.md": "a707bd4259b7276756a45c9513dbce0fa06f21dc2682fbe5112a1d735fa2622c",
+    "references/glossary.md": "f7b21e8ce188d849aa8d442288f1ddb65a09f1bc1d69751a9410d0cf892bb4c8",
+    "references/overview.md": "ec51f7fa9fc36e7bd522bb695d87fca08a206a3733679b48f5a8038053584725",
+    "resources/practice-sheet.md": "83c959695ac731bbc68f1cba6fbb551599acec11da52d3e756c46d1a47f115fa"
+  }
+}
